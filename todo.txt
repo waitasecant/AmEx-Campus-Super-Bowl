@@ -1,0 +1,12 @@
+1 - Team 1, bat
+0 - Team 2, field
+
+toss_decision
+1 - bat
+0 - field
+
+
+
+P1 - Non-cricket features (Win) - Toss, Ground, Lightening, Series, Umpire
+P2-  Match level features - By, Win Amount, Innings Run, Wicket, Ball
+P3 - Player level features - Using batsaman and bowler
