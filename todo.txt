@@ -14,9 +14,16 @@ P3 - Player level features - Using batsaman and bowler
 
 Done
 Runs - Ratio of average of margin of runs won by team1 batting first and average of margins of runs won by all the teams batting first using match_data for matches on previous date of match in test_data for all the matches in test_data
+Wickets - Ratio of average of margin of wickets won by team1 batting first and average of margins of runs won by all the teams batting first using match_data for matches on previous date of match in test_data for all the matches in test_data
+Average Wickets Lost -  Determine the average number of wickets lost per match by each team.
+Average Run Rate: Calculate the average runs scored per over by each team in previous matches.
+
 
 Pending
-- wicket margin of wins of team1 aganist average margin in matches aganist that of team2
 - player winning mom - how many in the team1 aganist team2
 - total runs/innings runs scored by all the mom team1 aganist team2
 - total wickets/innings wickets scored by all the mom team1 aganist team2
+
+Strike Rate (SR): Evaluate the strike rate of key batsmen in previous matches.
+Economy Rate (ER): Look at the economy rate of bowlers in previous encounters.
+Recent Form: Factor in the performance of both teams in their recent matches.
