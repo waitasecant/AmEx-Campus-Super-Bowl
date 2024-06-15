@@ -10,3 +10,13 @@ toss_decision
 P1 - Non-cricket features (Win) - Toss, Umpire
 P2-  Match level features - By, Win Amount, Innings Run, Wicket, Ball
 P3 - Player level features - Using batsaman and bowler
+
+
+Done
+Runs - Ratio of average of margin of runs won by team1 batting first and average of margins of runs won by all the teams batting first using match_data for matches on previous date of match in test_data for all the matches in test_data
+
+Pending
+- wicket margin of wins of team1 aganist average margin in matches aganist that of team2
+- player winning mom - how many in the team1 aganist team2
+- total runs/innings runs scored by all the mom team1 aganist team2
+- total wickets/innings wickets scored by all the mom team1 aganist team2
