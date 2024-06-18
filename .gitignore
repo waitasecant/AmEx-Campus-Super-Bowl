@@ -1,7 +1,8 @@
 venv
 docs
 Cheatsheet1.py
-sub
 results.txt
 resource.txt
 catboost_info
+newdata
+models

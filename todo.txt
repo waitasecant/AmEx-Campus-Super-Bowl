@@ -1,24 +1,3 @@
-1 - Team 1, bat
-0 - Team 2, field
-
-toss_decision
-1 - bat
-0 - field
-
-
-
-P1 - Non-cricket features (Win) - Toss, Umpire
-P2-  Match level features - By, Win Amount, Innings Run, Wicket, Ball
-P3 - Player level features - Using batsaman and bowler
-
-
-Done
-Runs - Ratio of average of margin of runs won by team1 batting first and average of margins of runs won by all the teams batting first using match_data for matches on previous date of match in test_data for all the matches in test_data
-Wickets - Ratio of average of margin of wickets won by team1 batting first and average of margins of runs won by all the teams batting first using match_data for matches on previous date of match in test_data for all the matches in test_data
-Average Wickets Lost -  Determine the average number of wickets lost per match by each team.
-Average Run Rate: Calculate the average runs scored per over by each team in previous matches.
-
-
 Pending
 - player winning mom - how many in the team1 aganist team2
 - total runs/innings runs scored by all the mom team1 aganist team2
@@ -27,3 +6,12 @@ Pending
 Strike Rate (SR): Evaluate the strike rate of key batsmen in previous matches.
 Economy Rate (ER): Look at the economy rate of bowlers in previous encounters.
 Recent Form: Factor in the performance of both teams in their recent matches.
+
+
+Player Matchups: Analyze historical performance of batsmen against specific bowlers they are likely to face.
+Partnership Records: Look at the average runs scored in partnerships, particularly for the opening or key batting positions.
+Pressure Index: Calculate a pressure index based on runs required, balls remaining, and wickets in hand at various stages of the match.
+Home Advantage: Consider the team’s performance at home vs away matches.
+Chase vs Defend: Some teams perform better chasing a target, while others are better at setting one. Look at win percentages in both scenarios.
+Fitness and Form of Key Players: Current fitness levels and form can significantly impact individual performances.
+Team Composition: The balance between batsmen, bowlers, and all-rounders can affect match outcomes.

@@ -1,0 +1,11 @@
+feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
+1,team1Num50Last15,Ratio of team1 to team2 number of 50s by players in last 15 games.,0.14814393629317502,1
+2,seriesAvgRunsLast15,Average runs scored in the series in last 15 games.,0.09559189618441413,2
+3,inn2AvgRunsLast15,Average runs scored in inning 2 in last 15 games.,0.07269757800449705,3
+4,team1BatsFirstWins,Ratio of team1 to team2 percent of match wins resulting from batting first.,0.05187776080240483,4
+5,team1AvgWicketsLost,Ratio of team1 to team2 avg wickets lost w.r.t total balls faced.,0.04889827637214228,5
+6,team1AvgRunsMargin,Ratio of team1 to team2 average of margin of runs won by,0.04805511659507963,6
+7,team1WinpLight,Ratio of team1 to team2 percent win given the lighting condition.,0.046473632387001404,7
+8,team1tossWinnerWins,Ratio of team1 to team2 percent of toss wins resulting in match wins.,0.042940648973184045,8
+9,team1AvgWicketsMargin,Ratio of team1 to team2 average of margin of wickets won by,0.041500402223212024,9
+10,team1AvgRR,Ratio of team1 to team2 average runs rate,0.03879467037029809,10
