@@ -1,0 +1,11 @@
+feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
+1,team1Num50Last15,Ratio of team1 to team2 number of 50s by players in last 15 games.,0.04911446921486823,1
+2,team1TotalRunsPOMLast15,Ratio of team1 to team2 total runs by player of the match in last 15 games.,0.04723842684499782,2
+3,team1BatsFirstWins,Ratio of team1 to team2 percent of match wins resulting from batting first.,0.03980679360305898,3
+4,team1BoundaryLast15,Ratio of team1 to team2 total boundaries in last 15 games.,0.03930227674820651,4
+5,team1ExtrasPercentLast15,Ratio of team1 to team2 percent of extras conceded in last 15 games.,0.039248673450785386,5
+6,team1SRover120Last15,Ratio of team1 to team2 percent player-level strike rate over 120 in last 15 games.,0.03691439800959938,6
+7,team1WinpLast5,Ratio of team1 to team2 percent  win in last 5 games.,0.03627109759274359,7
+8,team1TotalWicketsPOMLast15,Ratio of team1 to team2 total wickets by player of the match in last 15 games.,0.03386389953885994,8
+9,inn1AvgWicketsLast15,Average wickets lost in inning 1 in last 15 games.,0.032999931923807346,9
+10,team1CaptainRuns,Ratio of team1 to team2 total runs scored by captains.,0.03262484714520799,10

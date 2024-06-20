@@ -1,17 +1,12 @@
-Pending
-- player winning mom - how many in the team1 aganist team2
-- total runs/innings runs scored by all the mom team1 aganist team2
-- total wickets/innings wickets scored by all the mom team1 aganist team2
+file:///D:/Madan_Gopal_Jhanwar.pdf
 
-Strike Rate (SR): Evaluate the strike rate of key batsmen in previous matches.
-Economy Rate (ER): Look at the economy rate of bowlers in previous encounters.
-Recent Form: Factor in the performance of both teams in their recent matches.
+https://dtai.cs.kuleuven.be/events/MLSA16/slides/06_Madan_Gopal.pdf
 
 
-Player Matchups: Analyze historical performance of batsmen against specific bowlers they are likely to face.
-Partnership Records: Look at the average runs scored in partnerships, particularly for the opening or key batting positions.
-Pressure Index: Calculate a pressure index based on runs required, balls remaining, and wickets in hand at various stages of the match.
-Home Advantage: Consider the team’s performance at home vs away matches.
-Chase vs Defend: Some teams perform better chasing a target, while others are better at setting one. Look at win percentages in both scenarios.
-Fitness and Form of Key Players: Current fitness levels and form can significantly impact individual performances.
-Team Composition: The balance between batsmen, bowlers, and all-rounders can affect match outcomes.
+https://www.ijasret.com/VolumeArticles/FullTextPDF/480_9.CRICKET_MATCH_OUTCOME_PREDICTION_USING.pdf
+
+https://github.com/sathyannarayan/Analytics-and-Predictive-modeling-for-IPL-cricket-matches
+
+https://arxiv.org/pdf/2203.10706
+
+https://github.com/Wickkey/American-Express-Campus-Superbowl-Challenge-2022
