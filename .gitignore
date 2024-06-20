@@ -1,6 +1,7 @@
 venv
 docs
 Cheatsheet1.py
+Cheatsheet.ipynb
 results.txt
 resource.txt
 catboost_info
