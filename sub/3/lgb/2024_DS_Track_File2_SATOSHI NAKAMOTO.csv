@@ -1,11 +1,11 @@
 feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
-1,rel_strength,Relative strength of team1 to team2.,0.10399159663865547,1
-2,team1TotalWicketsPOMLast15,Ratio of team1 to team2 total wickets by player of the match in last 15 games.,0.08823529411764706,2
-3,team1Num50Last15,Ratio of team1 to team2 number of 50s by players in last 15 games.,0.06932773109243698,3
-4,inn2AvgRunsLast15,Average runs scored in inning 2 in last 15 games.,0.052521008403361345,4
-5,team1BowlBoundaryPercentLast15,Ratio of team1 to team2 percent of runs conceded that are boundaries in last 15 games.,0.04936974789915966,5
-6,seriesAvgRunsLast15,Average runs scored in the series in last 15 games.,0.04411764705882353,6
-7,lightAvgRunsLast15,Average runs scored in the lighting in last 15 games.,0.04201680672268908,7
-8,seriesAvgWicketsLast15,Average wickets lost in the series in last 15 games.,0.04096638655462185,8
-9,team1BatBoundaryPercentLast15,Ratio of team1 to team2 percent of runs scored that are boundaries in last 15 games.,0.04096638655462185,9
-10,team1BatsFirstWins,Ratio of team1 to team2 percent of match wins resulting from batting first.,0.03676470588235294,10
+1,team1TotalWicketsPOMLast15,Ratio of team1 to team2 total wickets by player of the match in last 15 games.,0.16079295154185022,1
+2,rel_strength,Relative strength of team1 to team2.,0.13215859030837004,2
+3,team1Num50Last15,Ratio of team1 to team2 number of 50s by players in last 15 games.,0.09361233480176212,3
+4,team1BatBoundaryPercentLast15,Ratio of team1 to team2 percent of runs scored that are boundaries in last 15 games.,0.07929515418502203,4
+5,team1DotPercentLast15,Ratio of team1 to team2 percent of balls that are dots in last 15 games.,0.06938325991189427,5
+6,team1tossWinnerWins,Ratio of team1 to team2 percent of toss wins resulting in match wins.,0.0473568281938326,6
+7,team1BowlBoundaryPercentLast15,Ratio of team1 to team2 percent of runs conceded that are boundaries in last 15 games.,0.0473568281938326,7
+8,team1ExtrasPercentLast15,Ratio of team1 to team2 percent of extras conceded in last 15 games.,0.04515418502202643,8
+9,lightAvgRunsLast15,Average runs scored in the lighting in last 15 games.,0.03524229074889868,9
+10,groundAvgWicketsLast15,Average wickets lost in the ground in last 15 games.,0.034140969162995596,10

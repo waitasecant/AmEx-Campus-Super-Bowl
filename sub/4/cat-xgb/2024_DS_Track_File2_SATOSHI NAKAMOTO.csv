@@ -1,0 +1,11 @@
+feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
+1,rel_strength,Relative strength of team1 to team2.,0.06097415974475524,1
+2,team1Num50Last15,Ratio of team1 to team2 number of 50s by players in last 15 games.,0.042336556513906,2
+3,team1BoundaryLast15,Ratio of team1 to team2 total boundaries in last 15 games.,0.038851967044328695,3
+4,team1RunsRight,Ratio of team1 to team2 runs scored by right-handed batsmen.,0.03789674638723754,4
+5,team1TotalRunsPOMLast15,Ratio of team1 to team2 total runs by player of the match in last 15 games.,0.0354212611205236,5
+6,team1TotalWicketsPOMLast15,Ratio of team1 to team2 total wickets by player of the match in last 15 games.,0.030773157611487086,6
+7,team1PlayerOfMatchLast15,Ratio of team1 to team2 total number of player of the match won by players in last 15 games.,0.027844655869562862,7
+8,team1SRover120Last15,Ratio of team1 to team2 percent player-level strike rate over 120 in last 15 games.,0.026586710089336652,8
+9,seriesAvgRunsLast15,Average runs scored in the series in last 15 games.,0.02622639948553325,9
+10,team1BatsFirstWins,Ratio of team1 to team2 percent of match wins resulting from batting first.,0.026075921228203035,10
