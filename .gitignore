@@ -6,7 +6,6 @@ results.txt
 resource.txt
 catboost_info
 newdata
-models
 dataoof
 prepare_meta.ipynb
 prepare3.ipynb
